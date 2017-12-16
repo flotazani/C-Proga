@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andreikonovalov/Documents/ITMO/lab11v17/Point.h
+
+/Users/andreikonovalov/Documents/ITMO/lab11v17/Struct.cpp
+stdio.h
+-
+Point.h
+/Users/andreikonovalov/Documents/ITMO/lab11v17/Point.h
+Struct.h
+/Users/andreikonovalov/Documents/ITMO/lab11v17/Struct.h
+math.h
+/Users/andreikonovalov/Documents/ITMO/lab11v17/math.h
+
+/Users/andreikonovalov/Documents/ITMO/lab11v17/Struct.h
+Point.h
+/Users/andreikonovalov/Documents/ITMO/lab11v17/Point.h
+

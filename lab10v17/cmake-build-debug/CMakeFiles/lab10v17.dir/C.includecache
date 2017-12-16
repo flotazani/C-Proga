@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andreikonovalov/Documents/ITMO/lab10v17/main.c
+stdio.h
+-
+math.h
+/Users/andreikonovalov/Documents/ITMO/lab10v17/math.h
+stdlib.h
+-
+
