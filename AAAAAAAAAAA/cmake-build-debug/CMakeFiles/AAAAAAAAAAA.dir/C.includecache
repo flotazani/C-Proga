@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/Triangle.c
+Triangle.h
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/Triangle.h
+stdio.h
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/stdio.h
+stdlib.h
+-
+math.h
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/math.h
+
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/Triangle.h
+point.h
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/point.h
+
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/main.c
+stdio.h
+-
+Triangle.h
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/Triangle.h
+stdlib.h
+-
+
+/Users/andreikonovalov/Documents/ITMO/AAAAAAAAAAA/point.h
+
